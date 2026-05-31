@@ -1,0 +1,18 @@
+﻿{
+    "section":  "data-transformation",
+    "category":  "sql-power-query-etl",
+    "n":  6,
+    "title":  "SQL - Invoice \u0026 Accounts Payable Exception Analysis",
+    "desc":  "A SQL controls project using supplier, invoice, payment, and purchase order tables to detect duplicate invoices, overdue items, payment delays, missing POs, and VAT or tax inconsistencies.",
+    "code":  "https://github.com/Naadir-Dev-Portfolio/SQL-Invoice-Accounts-Payable-Exception-Analysis/blob/main/README.md",
+    "details":  "https://github.com/Naadir-Dev-Portfolio/SQL-Invoice-Accounts-Payable-Exception-Analysis/blob/main/README.md",
+    "tags":  [
+                 "SQL",
+                 "Accounts Payable",
+                 "Exception Reporting",
+                 "Anti Joins",
+                 "Duplicate Detection",
+                 "Aging Analysis"
+             ]
+}
+
